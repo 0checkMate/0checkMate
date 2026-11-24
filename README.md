@@ -14,13 +14,13 @@ I build AI systems that solve operational problems. After four years leading pro
 An ERP sidecar with specialised agents for maintenance, root-cause analysis and CAPA, traceability and procurement. [View Repo](https://github.com/0checkMate/agentic-ops)
 
 **Multi-Agent Research Tool** · *LangChain (LCEL), Tavily, BeautifulSoup, Gemini, Render*
-A search, scrape, write and critique pipeline, deployed with a frontend. [🚀 Live demo](https://research-tool-47e4.onrender.com/) (first load may take up to a minute) · [View repo](#)
+A search, scrape, write and critique pipeline, deployed with a frontend. [🚀 Live demo](https://research-tool-47e4.onrender.com/) (first load may take up to a minute) · [View repo](https://github.com/0checkMate/research_tool)
 
 **RAG Pipelines** · *LangChain, Chroma, Gemini*
-Retrieval-augmented generation experiments covering ingestion, embeddings, retrieval and answer generation. [View repo](#)
+Retrieval-augmented generation experiments covering ingestion, embeddings, retrieval and answer generation. [View repo](https://github.com/0checkMate/Langchain_Sandbox)
 
 **TrustGuard AI** · *SEED Hackathon 2026 (Kill Switch theme)*
-A team entry focused on trustworthy AI controls. [View repo](#)
+A team entry focused on trustworthy AI controls. [View repo](https://github.com/Elphazy/TrustGuard-AI)
 
 **Learning Management System** · *PHP, SQL, cPanel*
 A full-stack web portal built and deployed end to end. [View repo](#)
