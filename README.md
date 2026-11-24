@@ -11,7 +11,7 @@ I build AI systems that solve operational problems. After four years leading pro
 ## 🔭 What I Build
 
 **Agentic Operations Platform** · *Python, Odoo, LLM agents*
-An ERP sidecar with specialised agents for maintenance, root-cause analysis and CAPA, traceability and procurement. [View repo](#)
+An ERP sidecar with specialised agents for maintenance, root-cause analysis and CAPA, traceability and procurement. [(https://github.com/0checkMate/agentic-ops)](#)
 
 **Multi-Agent Research Tool** · *LangChain (LCEL), Tavily, BeautifulSoup, Gemini, Render*
 A search, scrape, write and critique pipeline, deployed with a frontend. [🚀 Live demo](https://research-tool-47e4.onrender.com/) (first load may take up to a minute) · [View repo](#)
