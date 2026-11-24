@@ -22,8 +22,10 @@ Retrieval-augmented generation experiments covering ingestion, embeddings, retri
 **TrustGuard AI** · *SEED Hackathon 2026 (Kill Switch theme)*
 A team entry focused on trustworthy AI controls. [View repo](https://github.com/Elphazy/TrustGuard-AI)
 
+<!-- 
 **Learning Management System** · *PHP, SQL, cPanel*
 A full-stack web portal built and deployed end to end. [View repo](#)
+-->
 
 ---
 
