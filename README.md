@@ -72,4 +72,4 @@ This lets me design AI systems around real workflows and failure modes, not just
 
 ---
 
-![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=0checkMate&show_icons=true&theme=dark&hide_border=true)
+![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=0checkMate&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&v=2)
